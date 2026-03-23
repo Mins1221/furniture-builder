@@ -98,4 +98,6 @@ furniture-builder/
 
 ## 📸 화면 구성
 
-> 추후 스크린샷 추가 예정
+| 초기 화면 | GUI 구현 화면 |
+|:---------:|:-------------:|
+| ![초기화면](screenshots/furniture-builder%20image.png) | ![GUI화면](screenshots/furniture-builder%20GUI%20image.png) |
